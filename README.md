@@ -1,9 +1,12 @@
 # WeChat_JumpCheat
+# 微信跳一跳作弊器
 
 参照b站视频 
 Python开发微信跳一跳作弊器 
 https://www.bilibili.com/video/av18040463/?t=5791
 非原创
+
+其中adb.exe fastboot.exe AdbWinApi.dll AdbWinUsbApi.dll为adb组件，用于usb控制安卓手机
 
 电脑上需提前安装python27或者python35
 
