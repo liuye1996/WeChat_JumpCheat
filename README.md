@@ -1,5 +1,5 @@
 # WeChat_JumpCheat
-# 微信跳一跳作弊器
+# 微信跳一跳
 
 参照b站视频 
 Python开发微信跳一跳作弊器 
